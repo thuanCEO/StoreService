@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHubDesktop\\BookCourseShopService\\WebServiceApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A293B124-B276-4E8D-AA01-5B9671B0F021}|..\\WebServiceApi.Presentation\\WebServiceApi.Presentation.csproj|d:\\githubdesktop\\bookcourseshopservice\\webserviceapi.presentation\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0EE79B4-8AD7-4DAE-8CBE-7C34504BE08B}|..\\WebServiceApi.Infrastructure\\WebServiceApi.Infrastructure.csproj|d:\\githubdesktop\\bookcourseshopservice\\webserviceapi.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D243142-6247-458C-BA86-DBD2EB8CFE52}|..\\WebServiceApi.Application\\WebServiceApi.Application.csproj|d:\\githubdesktop\\bookcourseshopservice\\webserviceapi.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9982783C-B8BD-4B5C-9AB7-D238AE0E0D7E}|..\\WebServiceApi.Domain\\WebServiceApi.Domain.csproj|d:\\githubdesktop\\bookcourseshopservice\\webserviceapi.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\GitHubDesktop\\BookCourseShopService\\WebServiceApi.Presentation\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\WebServiceApi.Presentation\\Class1.cs",
+              "ToolTip": "D:\\GitHubDesktop\\BookCourseShopService\\WebServiceApi.Presentation\\Class1.cs",
+              "RelativeToolTip": "..\\WebServiceApi.Presentation\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T13:49:05.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\GitHubDesktop\\BookCourseShopService\\WebServiceApi.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\WebServiceApi.Infrastructure\\Class1.cs",
+              "ToolTip": "D:\\GitHubDesktop\\BookCourseShopService\\WebServiceApi.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "..\\WebServiceApi.Infrastructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T13:48:32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\GitHubDesktop\\BookCourseShopService\\WebServiceApi.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\WebServiceApi.Application\\Class1.cs",
+              "ToolTip": "D:\\GitHubDesktop\\BookCourseShopService\\WebServiceApi.Application\\Class1.cs",
+              "RelativeToolTip": "..\\WebServiceApi.Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T13:48:08.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\GitHubDesktop\\BookCourseShopService\\WebServiceApi.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\WebServiceApi.Domain\\Class1.cs",
+              "ToolTip": "D:\\GitHubDesktop\\BookCourseShopService\\WebServiceApi.Domain\\Class1.cs",
+              "RelativeToolTip": "..\\WebServiceApi.Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T13:47:49.054Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 169,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:24:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 865,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:25:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:27:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
